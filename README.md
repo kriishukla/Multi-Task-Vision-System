@@ -1,4 +1,4 @@
-# Homework 1: Image Classification, Object Detection, Segmentation & Tracking
+# Image Classification, Object Detection, Segmentation & Tracking
 
 Comprehensive computer vision project implementing core deep learning tasks on wildlife/animal datasets.
 
